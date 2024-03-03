@@ -8,8 +8,6 @@ int search(int arr[],int N, int x){
 	return -1;
 }
 //Driver code
-
-
 int main(){
 	int arr[100],n,x,i;
 	printf("Enter the number of element to sort:");
